@@ -1,3 +1,6 @@
+
+#!/usr/bin/python
+
 #definition for factorial function
 
 def fact(n):
